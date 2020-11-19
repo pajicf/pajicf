@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Welcome 👋 </b></h1>
+<h1 align= "center"><b>Greeting earthling 🌍👋 </b></h1>
  
 [![Linkedin Badge](https://img.shields.io/badge/-pajicf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pajicf/)](https://www.linkedin.com/in/pajicf/)
 [![Instagram Badge](https://img.shields.io/badge/-@pajicf-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/pajicf/)](https://www.instagram.com/pajicf/)

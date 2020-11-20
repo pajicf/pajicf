@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Greeting earthling 🌍👋 </b></h1>
+<h1 align= "center"><b>Greetings earthling 🌍👋 </b></h1>
  
 [![Linkedin Badge](https://img.shields.io/badge/-pajicf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pajicf/)](https://www.linkedin.com/in/pajicf/)
 [![Instagram Badge](https://img.shields.io/badge/-@pajicf-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/pajicf/)](https://www.instagram.com/pajicf/)
@@ -55,9 +55,9 @@ save time and still keep your app lightweight and universal!
 
 #### Substrate
 Also be sure to checkout Substrate code generator app [here](https://substrate-startkit.mvpworkshop.co), <br/>
-If you prefer reading code more, check it out here:
-[Backend here](https://github.com/MVPWorkshop/substrate-startkit-gui-api), 
-[Frontend here](https://github.com/MVPWorkshop/substrate-startkit-gui-app)
+If you'd rather prefer seeing the code for yourself, check it out here:
+[Backend](https://github.com/MVPWorkshop/substrate-startkit-gui-api), 
+[Frontend](https://github.com/MVPWorkshop/substrate-startkit-gui-app)
 
 <br />
 <hr/>

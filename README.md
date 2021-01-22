@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@pajicf-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/pajicf/)](https://www.instagram.com/pajicf/)
 
 Welcome stranger, I'm Filip and I like telling computers what to do, more precisely currently I mostly do Full-stack web
-development with a small side dish of blockchain development proudly at [MVP Workshop](https://mvpworkshop.co) while also studying
+development with a side dish of blockchain development proudly at [MVP Workshop](https://mvpworkshop.co) while also studying
 Computer Science at [RAF](https://www.raf.edu.rs)<br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -54,10 +54,10 @@ Perhaps download the [react-native-semi-circle-progress](https://github.com/paji
 save time and still keep your app lightweight and universal!
 
 #### Substrate
-Also be sure to checkout Substrate code generator app [here](https://substrate-startkit.mvpworkshop.co), <br/>
+Also be sure to checkout Substrate code generator app [here](https://substrate-starterkit.mvpworkshop.co), <br/>
 If you'd rather prefer seeing the code for yourself, check it out here:
-[Backend](https://github.com/MVPWorkshop/substrate-startkit-gui-api), 
-[Frontend](https://github.com/MVPWorkshop/substrate-startkit-gui-app)
+[Backend](https://github.com/pajicf/substrate-startkit-gui-api), 
+[Frontend](https://github.com/pajicf/substrate-startkit-gui-app)
 
 <br />
 <hr/>

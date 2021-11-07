@@ -6,26 +6,14 @@ Building web3...<br />
 
 ## Tech stack
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
-[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
-[![Substrate](https://img.shields.io/badge/-Substrate-black?style=for-the-badge&logo=Parity-substrate&logoColor=white)]()
-[![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=Next.js&logoColor=white)]()
-[![Flutter](https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=Flutter&logoColor=blue)]()
-[![React Native](https://img.shields.io/badge/-React_Native-blue?style=for-the-badge&logo=react&logoColor=white)]()
-[![MaterialUI](https://img.shields.io/badge/-MaterialUI-007acc?style=for-the-badge&logo=material-ui&logoColor=white)]()
-[![SASS](https://img.shields.io/badge/-SASS-CD6799?style=for-the-badge&logo=sass&logoColor=white)]()
-[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)]()
-[![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![Rust](https://img.shields.io/badge/-Rust-orange?style=for-the-badge&logo=rust&logoColor=white)]()
 [![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
-[![IPFS](https://img.shields.io/badge/-IPFS-23bbad?style=for-the-badge&logo=ipfs&logoColor=white)]()
-[![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]()
-[![SQL](https://img.shields.io/badge/-SQL-d2082d?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)]()
-[![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]()
-[![Webstorm](https://img.shields.io/badge/-WebStorm-007acc?style=for-the-badge&logo=webstorm&logoColor=white)]()
-[![AWS](https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=Amazon-AWS&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=orange)]()
+[![Vyper](https://img.shields.io/badge/-Vyper-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
+
+[![Substrate](https://img.shields.io/badge/-Substrate-black?style=for-the-badge&logo=Parity-substrate&logoColor=white)]()
+[![Rust](https://img.shields.io/badge/-Rust-orange?style=for-the-badge&logo=rust&logoColor=white)]()
+
+[![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
 
 ## Open Source
 

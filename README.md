@@ -1,10 +1,8 @@
-<h1 align= "center"><b>Gm 👋 </b></h1>
+<h1 align="center"><b>Gm 👋</b></h1>
  
 [![Linkedin Badge](https://img.shields.io/badge/-pajicf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pajicf/)](https://www.linkedin.com/in/pajicf/)
 
 Building web3...<br />
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ## Tech stack
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()

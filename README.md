@@ -1,8 +1,6 @@
 <h1 align="center"><b>Gm 👋</b></h1>
  
-[![Linkedin Badge](https://img.shields.io/badge/-pajicf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pajicf/)](https://www.linkedin.com/in/pajicf/)
-
-Building web3...<br />
+Building web3...<br /> [![Linkedin Badge](https://img.shields.io/badge/-pajicf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pajicf/)](https://www.linkedin.com/in/pajicf/)
 
 ## Tech stack
 [![Ethereum](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=ethereum&logoColor=white)]()
@@ -35,9 +33,7 @@ If you'd rather prefer seeing the code for yourself, check it out here:
 #### Tesseract Finance
 "Multidimensional" yield farming aggregator [here](https://tesr.finance) <br/>
 
-<br />
-
-<b>C ya</b>
+<h1><b>C ya</b></h1>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/pajicf/count.svg" />
 </p>

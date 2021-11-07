@@ -36,9 +36,8 @@ If you'd rather prefer seeing the code for yourself, check it out here:
 "Multidimensional" yield farming aggregator [here](https://tesr.finance) <br/>
 
 <br />
-<hr/>
-<br />
-<h1><b>C ya</b></h1><br/>
+
+<h1><b>C ya</b></h1>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/pajicf/count.svg" />
 </p>

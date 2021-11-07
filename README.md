@@ -1,20 +1,10 @@
-<h1 align= "center"><b>Greetings earthling 🌍👋 </b></h1>
+<h1 align= "center"><b>Gm 👋 </b></h1>
  
 [![Linkedin Badge](https://img.shields.io/badge/-pajicf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pajicf/)](https://www.linkedin.com/in/pajicf/)
-[![Instagram Badge](https://img.shields.io/badge/-@pajicf-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/pajicf/)](https://www.instagram.com/pajicf/)
 
-Welcome stranger, I'm Filip and I like telling computers what to do, more precisely currently I mostly do Full-stack web
-development with a side dish of blockchain development proudly at [MVP Workshop](https://mvpworkshop.co) while also studying
-Computer Science at [RAF](https://www.raf.edu.rs)<br />
+Building web3...<br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pajicf&hide=html,ruby,css" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pajicf&show_icons=true&count_private=true&" />
-</a>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
 
 ## Tech stack
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
@@ -40,29 +30,29 @@ Computer Science at [RAF](https://www.raf.edu.rs)<br />
 [![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=orange)]()
 
 ## Open Source
-My favourite trait in people are <b>honesty</b> and <b>openness</b>, so naturally I also love open source software and proudly contribute to the community!
 
 #### Node + Express + Typescript, where should I start?
-If you are in need of a great starting point for your new project, look no further and check
-out this template I made [here](https://github.com/pajicf/node-be-template)
+Some boilerplate template to turbo start your project [here](https://github.com/pajicf/node-be-template)
 
 #### Stuck with Coinbase SDK?
 Checkout [this](https://github.com/pajicf/coinbase-node) fork where I updated the certificates, now you can use the SDK at its fullest!
 
 #### Want to visualize some data in React Native?
-Perhaps download the [react-native-semi-circle-progress](https://github.com/pajicf/react-native-semi-circle-progress) library,
-save time and still keep your app lightweight and universal!
+Very lightweight and cross platform universal lib, [react-native-semi-circle-progress](https://github.com/pajicf/react-native-semi-circle-progress)
 
 #### Substrate
-Also be sure to checkout Substrate code generator app [here](https://substrate-starterkit.mvpworkshop.co), <br/>
+Also be sure to checkout Substrate blockchain d&d builder [here](https://substrate-starterkit.mvpworkshop.co), <br/>
 If you'd rather prefer seeing the code for yourself, check it out here:
 [Backend](https://github.com/pajicf/substrate-startkit-gui-api), 
 [Frontend](https://github.com/pajicf/substrate-startkit-gui-app)
 
+#### Tesseract Finance
+"Multidimensional" yield farming aggregator [here](https://tesr.finance) <br/>
+
 <br />
 <hr/>
 <br />
-<h1><b>Thanks for stopping by :D</b></h1><br/>
+<h1><b>C ya</b></h1><br/>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/pajicf/count.svg" />
 </p>

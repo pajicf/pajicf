@@ -5,7 +5,7 @@
 Building web3...<br />
 
 ## Tech stack
-[![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
+[![Ethereum](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=ethereum&logoColor=white)]()
 [![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
 [![Vyper](https://img.shields.io/badge/-Vyper-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
 

@@ -15,6 +15,9 @@ Building web3...<br /> [![Linkedin Badge](https://img.shields.io/badge/-pajicf-b
 
 ## Open Source
 
+#### Circom, how do I start?
+[Template for Circom](https://github.com/pajicf/create-circom-circuit) with Typescript tests setup, as well as many helper bash scripts to get going with just one unified build command.
+
 #### Node + Express + Typescript, where should I start?
 Some boilerplate template to turbo start your project [here](https://github.com/pajicf/node-be-template)
 

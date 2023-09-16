@@ -35,6 +35,10 @@ If you'd rather prefer seeing the code for yourself, check it out here:
 
 #### Tesseract Finance
 "Multidimensional" yield farming aggregator [here](https://tesr.finance) <br/>
+You can find the code here: 
+[Frontend](https://github.com/pajicf/tesseract-app),
+[Strategies Contracts](https://github.com/Tesseract-Finance/tesseract-strategies/tree/polygon),
+[Core Protocol Contracts](https://github.com/Tesseract-Finance/tesseract-vaults)
 
 <h1><b>C ya</b></h1>
 <p align="center"> 

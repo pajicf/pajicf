@@ -7,7 +7,7 @@ Building web3...<br /> [![Linkedin Badge](https://img.shields.io/badge/-pajicf-b
 [![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
 [![Vyper](https://img.shields.io/badge/-Vyper-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
 
-[![Substrate](https://img.shields.io/badge/-Substrate-black?style=for-the-badge&logo=Parity-substrate&logoColor=white)]()
+[![Substrate](https://img.shields.io/badge/go-lang-blue?style=for-the-badge&logo=go&logoColor=white)]()
 [![Rust](https://img.shields.io/badge/-Rust-orange?style=for-the-badge&logo=rust&logoColor=white)]()
 
 [![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()

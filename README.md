@@ -1,41 +1,28 @@
 <h1 align="center"><b>Gm 👋</b></h1>
  
-Building web3...<br /> [![Linkedin Badge](https://img.shields.io/badge/-pajicf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pajicf/)](https://www.linkedin.com/in/pajicf/)
+Building web3...<br />
+Be sure to check out my site [here](https://0xpajic.com)!
 
-## Tech stack
-[![Ethereum](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=ethereum&logoColor=white)]()
-[![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
-[![Vyper](https://img.shields.io/badge/-Vyper-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
+## Personal Open Source projects
 
-[![Substrate](https://img.shields.io/badge/go-lang-blue?style=for-the-badge&logo=go&logoColor=white)]()
-[![Rust](https://img.shields.io/badge/-Rust-orange?style=for-the-badge&logo=rust&logoColor=white)]()
+## Templates
+- [Template for Circom](https://github.com/pajicf/create-circom-circuit) with Typescript tests setup, as well as many helper bash scripts to get going with just one unified build command.
 
-[![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
+- [Node + Express + Typescript](https://github.com/pajicf/node-be-template) boilerplate to turbo start your project
 
-## Open Source
+## Libs
+- [React Native - Circle Progress](https://github.com/pajicf/react-native-semi-circle-progress)  
+  Want to visualize some data in React Native? Here's a very lightweight and cross platform universal lib
 
-#### Circom, how do I start?
-[Template for Circom](https://github.com/pajicf/create-circom-circuit) with Typescript tests setup, as well as many helper bash scripts to get going with just one unified build command.
-
-#### Node + Express + Typescript, where should I start?
-Some boilerplate template to turbo start your project [here](https://github.com/pajicf/node-be-template)
-
-#### Stuck with Coinbase SDK?
-Checkout [this](https://github.com/pajicf/coinbase-node) fork where I updated the certificates, now you can use the SDK at its fullest!
-
-#### Want to visualize some data in React Native?
-Very lightweight and cross platform universal lib, [react-native-semi-circle-progress](https://github.com/pajicf/react-native-semi-circle-progress)
-
-#### Substrate
-Also be sure to checkout Substrate blockchain d&d builder [here](https://substrate-starterkit.mvpworkshop.co), <br/>
-If you'd rather prefer seeing the code for yourself, check it out here:
+## Projects
+- **Substrate Starterkit**
+Drag&Drop Substrate node generator <br/>
+[Documentation](https://despotf.gitbook.io/substrate-blockchain-starter-kit/introduction/substrate-starter-kit)
 [Backend](https://github.com/pajicf/substrate-startkit-gui-api), 
 [Frontend](https://github.com/pajicf/substrate-startkit-gui-app)
 
-#### Tesseract Finance
-"Multidimensional" yield farming aggregator [here](https://tesr.finance) <br/>
-You can find the code here: 
+- **Tesseract Finance**
+Yearn Finance yield farming aggregator gone "Multidimensional" <br/>
 [Frontend](https://github.com/pajicf/tesseract-app),
 [Strategies Contracts](https://github.com/Tesseract-Finance/tesseract-strategies/tree/polygon),
 [Core Protocol Contracts](https://github.com/Tesseract-Finance/tesseract-vaults)

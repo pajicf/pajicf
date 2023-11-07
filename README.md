@@ -17,7 +17,7 @@ Be sure to check out my site [here](https://0xpajic.com)!
 ## Projects
 - **Substrate Starterkit**
 Drag&Drop Substrate node generator <br/>
-[Documentation](https://despotf.gitbook.io/substrate-blockchain-starter-kit/introduction/substrate-starter-kit)
+[Documentation](https://despotf.gitbook.io/substrate-blockchain-starter-kit/introduction/substrate-starter-kit),
 [Backend](https://github.com/pajicf/substrate-startkit-gui-api), 
 [Frontend](https://github.com/pajicf/substrate-startkit-gui-app)
 

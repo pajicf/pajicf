@@ -23,6 +23,7 @@ Drag&Drop Substrate node generator <br/>
 
 - **Tesseract Finance**
 Yearn Finance yield farming aggregator gone "Multidimensional" <br/>
+[Documentation](https://tesseract-finance.gitbook.io/tesseract-finance/),
 [Frontend](https://github.com/pajicf/tesseract-app),
 [Strategies Contracts](https://github.com/Tesseract-Finance/tesseract-strategies/tree/polygon),
 [Core Protocol Contracts](https://github.com/Tesseract-Finance/tesseract-vaults)

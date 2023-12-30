@@ -27,6 +27,12 @@ Yearn Finance yield farming aggregator gone "Multidimensional" <br/>
 [Strategies Contracts](https://github.com/Tesseract-Finance/tesseract-strategies/tree/polygon),
 [Core Protocol Contracts](https://github.com/Tesseract-Finance/tesseract-vaults)
 
+- **Token Price Oracle**
+A simple oracle for tracking token prices on-chain, guarded by Chainlink <br/>
+[Documentation](http://despotf.gitbook.io/token-price-oracle/),
+[Smart Contracts](https://github.com/pajicf/token-price-oracle),
+[Orchestractor - TypeScript client](https://github.com/pajicf/token-price-oracle-orchestrator) 
+
 <h1><b>C ya</b></h1>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/pajicf/count.svg" />

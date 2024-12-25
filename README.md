@@ -5,6 +5,10 @@ Be sure to check out my site [here](https://0xpajic.com)!
 
 ## Personal Open Source projects
 
+## Games
+- **Minecraft clone with Multiplayer that's pluggable into React projects as a library**  
+[Monorepo](https://github.com/acid-info/WebCave)
+
 ## Templates
 - [Template for Circom](https://github.com/pajicf/create-circom-circuit) with Typescript tests setup, as well as many helper bash scripts to get going with just one unified build command.
 
@@ -32,7 +36,7 @@ Yearn Finance yield farming aggregator gone "Multidimensional" <br/>
 A simple oracle for tracking token prices on-chain, guarded by Chainlink <br/>
 [Documentation](http://despotf.gitbook.io/token-price-oracle/),
 [Smart Contracts](https://github.com/pajicf/token-price-oracle),
-[Orchestractor - TypeScript client](https://github.com/pajicf/token-price-oracle-orchestrator) 
+[Orchestractor - TypeScript client](https://github.com/pajicf/token-price-oracle-orchestrator)
 
 <h1><b>C ya</b></h1>
 <p align="center"> 

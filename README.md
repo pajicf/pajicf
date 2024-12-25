@@ -6,7 +6,7 @@ Be sure to check out my site [here](https://0xpajic.com)!
 ## Personal Open Source projects
 
 ## Games
-- **Minecraft clone with Multiplayer that's pluggable into React projects as a library**  
+- **Minecraft clone with Multiplayer that's built as a library and pluggable into sites**  
 [Monorepo](https://github.com/acid-info/WebCave)
 
 ## Templates

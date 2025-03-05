@@ -7,7 +7,7 @@ Be sure to check out my site [here](https://0xpajic.com)!
 
 ## Games
 - **Minecraft clone with Multiplayer that's built as a library and pluggable into sites**  
-[Monorepo](https://github.com/acid-info/WebCave)
+[Monorepo](https://github.com/pajicf/WebCave)
 
 ## Templates
 - [Template for Circom](https://github.com/pajicf/create-circom-circuit) with Typescript tests setup, as well as many helper bash scripts to get going with just one unified build command.
